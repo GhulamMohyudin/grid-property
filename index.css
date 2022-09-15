@@ -1,0 +1,41 @@
+body{
+    font-size: 13px;
+    font-weight: 500;
+    background-color: rgb(237 242 248);
+
+}
+
+h3{
+    color: white;
+}
+p{
+    color: white;
+}
+/* I have put the id to overwrite h and p color property and also have given the same name to aside heading and p for same color prop */
+#b1-cont{
+    color: black;
+}
+/* first row first col */
+.a1{
+   background-color:rgb(115 63 200) ; 
+}
+/* first row 2nd col */
+.a2{
+    background-color:rgb(73 85 107) ; 
+}
+/* 2nd row first col */
+.b1{
+background-color: #fff;
+
+}
+/* 2nd row first col */
+.b2{
+   background-color: rgb(24 32 45) ; 
+}
+.aside-col{
+    background-color: #fff;
+    border-radius: 10px;
+}
+.col{
+border-radius: 10px;
+}
